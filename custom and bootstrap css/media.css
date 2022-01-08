@@ -1,0 +1,96 @@
+/* kitchen panel start */
+
+@media(max-width: 767px){
+    .kitchen-panel {
+        height: 39vh;
+    }
+
+    .kitchen-m-top {
+        margin-top: 4rem;
+        padding-bottom: 3rem;
+    }
+
+    .kitchen-gap {
+        background-color: #fff;
+        padding: 2rem 1rem;
+        color: #000;
+    }
+}
+
+/* about us */
+
+@media(max-width: 767px){
+    .box-hover {
+        padding: 0rem 1rem 2rem;
+    }
+
+    .about-heading{
+        padding: 0px 0rem 2rem;
+    }
+    
+    .about-subtitle{
+        padding: 0rem 0rem;
+    }
+
+    .box-hover h3 {
+        position: static;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    .about-since {
+        padding: 3.5rem 0rem;
+    }
+
+    .counter{
+        font-size: 3rem;
+    }
+}
+
+/* design */
+
+@media(max-width: 767px){
+    .design-heading {
+        padding: 0px 0rem;
+        line-height: 1.8rem;
+        font-size: 22px;
+        margin-bottom: 1rem;
+    }
+
+    .design-para {
+        margin: 0rem 1rem 3rem;
+    }
+
+    #myTab li .btn-design {
+        padding: 0px 1rem;
+    }
+
+    .design-build {
+        margin-bottom: 3rem;
+    }
+}
+
+/* world clients */
+
+@media(max-width: 767px){
+    #testimonial .position-effect p {
+        padding: 4rem 1rem 5rem;
+        font-size: 1rem;
+    }
+}
+
+/* contact */
+
+@media(max-width: 767px){
+    .contact-office {
+        padding: 0px 1rem 0px 1rem;
+    }
+
+    .contact-footer-icon {
+        margin-right: 0rem;
+    }
+
+    .btn-contact {
+        padding: 0.5rem 0px;
+    }
+}
